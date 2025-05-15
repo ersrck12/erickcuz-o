@@ -1,0 +1,43 @@
+header {
+    text-align: center;
+    background-color: grey;
+    padding: 30px;
+}
+h1  {
+    font-size: 30px;
+    font-weight: bold;
+}
+main {
+    background-color: bisque;
+    text-align: center;
+    padding: 30px;
+    margin: auto;
+}
+h2 {
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+li {
+    margin: 10px  auto;
+    background-color: aquamarine;
+    border-radius: 10px;
+    width: 30%;
+    padding: 10px;
+}
+
+li:hover {
+    width: 33%
+}
+
+footer {
+    background-color: grey;
+    text-align: center;
+    padding: 0 0 20px 0;
+}
+a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: rgb(0, 0, 0);
+}
+
